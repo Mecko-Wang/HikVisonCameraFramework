@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/fileclose.png</file>
+        <file>icon/filenew.png</file>
+        <file>icon/fileopen.png</file>
+        <file>icon/fileprint.png</file>
+        <file>icon/filesave.png</file>
+        <file>icon/lens.ico</file>
+        <file>icon/media-pause-32.png</file>
+        <file>icon/media-play-32.png</file>
+        <file>icon/media-seek-backward-32.png</file>
+        <file>icon/media-seek-forward-32.png</file>
+        <file>icon/media-stop-32.png</file>
+        <file>icon/myico.rc</file>
+        <file>icon/set-param.PNG</file>
+        <file>icon/settings.png</file>
+        <file>icon/statistics.ico</file>
+        <file>icon/zoomout (2).png</file>
+        <file>icon/zoomout.png</file>
+    </qresource>
+</RCC>
