@@ -1,4 +1,0 @@
-Log file created at: 2019/01/22 15:35:20
-Running on machine: CW7CNSSZ04WANG
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-W0122 15:35:20.991600  7248 mainwindow.cpp:183] No device found!

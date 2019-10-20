@@ -1,6 +1,0 @@
-Log file created at: 2019/01/25 22:31:24
-Running on machine: CW7CNSSZ04WANG
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-I0125 22:31:24.408999 30484 mainwindow.cpp:98] Open program.
-W0125 22:31:24.530999 30484 mainwindow.cpp:183] No device found!
-I0125 22:39:28.253999 30484 mainwindow.cpp:529] Exit program.
